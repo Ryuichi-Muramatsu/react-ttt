@@ -132,3 +132,4 @@ function calculateWinner(squares) {
 function doReload() {
   window.location.reload();
 }
+// kakaka
